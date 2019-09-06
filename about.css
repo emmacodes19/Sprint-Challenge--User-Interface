@@ -1,3 +1,5 @@
+
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -207,6 +209,8 @@ p {
 footer {
     width: 100%;
     background: black;
+    margin-right: 40px;
+    margin-left: 40px;
 }
 
 footer nav {
@@ -223,3 +227,75 @@ footer nav a {
     text-decoration: none;
 }
 
+
+
+p {
+    line-height: 1.6;
+    
+}
+
+#bottom{
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+   
+}
+
+
+
+.division  {
+    border:black solid 2px;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content:start;
+
+    width:600px;
+   
+
+
+}
+
+.division .squares {
+    border: blue solid 2px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+
+.boxing{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: start;
+    border: red solid 2px;
+}
+.squares{
+    display: flex;
+    width:500px;
+    flex-wrap: wrap;
+}
+button {
+    color:black;
+    border-radius:20px;
+    font-size: 15px;
+    height: 40px;
+    border-color: black;
+   
+   
+}
+
+.final {
+    margin-right: 40px;
+    margin-left:40px;
+    margin-bottom: 40px;
+}
+
+ .mainBody {
+    
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:center;
+} 
