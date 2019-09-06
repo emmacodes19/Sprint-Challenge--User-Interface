@@ -56,9 +56,10 @@ footer, header, hgroup, menu, nav, section {
 .myImage {
     
     height: 150px;
-    width: 85%;
+    width: 80%;
     margin: 40px 40px;
-    margin-left: 100px;
+    margin-left: 200px;
+   
 }
 body {
 	line-height: 1;
@@ -164,7 +165,7 @@ p {
  
 }
 #box8  {
-    background: indigo;
+    background: hotpink;
  
 }
 #box9 {
