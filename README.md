@@ -42,7 +42,7 @@ In my own words: Display:block will put all boxes from horizontal to vertical an
 
 3. What are the 4 areas of the box model?
 
-Content, Padding, Border and Margin
+Content, Padding, Border and Margin.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
