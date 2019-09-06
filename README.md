@@ -34,11 +34,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-I would say that HTML could me compare to an architect who will build the "skeleton" of the house witout any style. 
+I would say that HTML could me compare to an architect who will build the "skeleton" of the house without any style. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-In my own words: Display:block will put all boxes from horizontal to vertical and Display:inline will do the opposite,
+In my own words: Display:block will put all boxes from horizontal to vertical and Display:inline will do the opposite.
 
 3. What are the 4 areas of the box model?
 
@@ -50,7 +50,7 @@ It will work on the Cross Axis.
 
 5. Explain why git is valuable to a team of developers.
 
-Git is valuable because it enables developers to share, adjust code by creating branches that they will merge once the project is done.
+Git is valuable because it enables developers to share and  adjust code by creating branches that they will merge once the project is done.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
